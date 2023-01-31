@@ -1,3 +1,3 @@
 # FigureSquare
 
-Ответ на Вопрос №2 находится в файле SQL Query.txt
+Ответ на Вопрос №3 находится в файле SQL Query.txt
